@@ -31,4 +31,7 @@ StringRecord(["3", "さくさんぼ", "cherry"])
 - [csv - Rust](https://docs.rs/csv/1.1.3/csv/)
 - [csv::StringRecord - Rust](https://docs.rs/csv/1.1.3/csv/struct.StringRecord.html)
 - [character encoding - How to read a non-UTF8 encoded csv file? - Stack Overflow](https://stackoverflow.com/questions/53826986/how-to-read-a-non-utf8-encoded-csv-file)
+- [BurntSushi/encoding_rs_io: Streaming I/O adapters for the encoding_rs crate.](https://github.com/BurntSushi/encoding_rs_io)
 - [BurntSushi/ripgrep: ripgrep recursively searches directories for a regex pattern while respecting your gitignore](https://github.com/BurntSushi/ripgrep)
+
+encoding_rs_ioにwriteがあるといいなあ。
