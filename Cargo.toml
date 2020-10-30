@@ -1,5 +1,5 @@
 [package]
-name = "hello00"
+name = "csv_sjis"
 version = "0.1.0"
 authors = ["heiwa4126 <heiwa4126@gmail.com>"]
 edition = "2018"
